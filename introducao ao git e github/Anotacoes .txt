@@ -1,0 +1,2 @@
+*link para download git: 
+*o Git bach é um terminal extendindo para otimizar o github
